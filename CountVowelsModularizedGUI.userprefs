@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{BB102527-4FCF-4883-BFB0-3487985F3BCD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CountVowelsModularizedGUI/Form1.cs">
+    <Files>
+      <File FileName="CountVowelsModularizedGUI/Form1.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CountVowelsModularizedGUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

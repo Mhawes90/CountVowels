@@ -1,0 +1,10 @@
+C:\Users\Chaos\source\repos\CountVowelsModularizedGUI\CountVowelsModularizedGUI\bin\Debug\CountVowelsModularizedGUI.exe.config
+C:\Users\Chaos\source\repos\CountVowelsModularizedGUI\CountVowelsModularizedGUI\bin\Debug\CountVowelsModularizedGUI.exe
+C:\Users\Chaos\source\repos\CountVowelsModularizedGUI\CountVowelsModularizedGUI\bin\Debug\CountVowelsModularizedGUI.pdb
+C:\Users\Chaos\source\repos\CountVowelsModularizedGUI\CountVowelsModularizedGUI\obj\Debug\CountVowelsModularizedGUI.csprojResolveAssemblyReference.cache
+C:\Users\Chaos\source\repos\CountVowelsModularizedGUI\CountVowelsModularizedGUI\obj\Debug\CountVowelsModularizedGUI.CountVowelsForm.resources
+C:\Users\Chaos\source\repos\CountVowelsModularizedGUI\CountVowelsModularizedGUI\obj\Debug\CountVowelsModularizedGUI.Properties.Resources.resources
+C:\Users\Chaos\source\repos\CountVowelsModularizedGUI\CountVowelsModularizedGUI\obj\Debug\CountVowelsModularizedGUI.csproj.GenerateResource.Cache
+C:\Users\Chaos\source\repos\CountVowelsModularizedGUI\CountVowelsModularizedGUI\obj\Debug\CountVowelsModularizedGUI.csproj.CoreCompileInputs.cache
+C:\Users\Chaos\source\repos\CountVowelsModularizedGUI\CountVowelsModularizedGUI\obj\Debug\CountVowelsModularizedGUI.exe
+C:\Users\Chaos\source\repos\CountVowelsModularizedGUI\CountVowelsModularizedGUI\obj\Debug\CountVowelsModularizedGUI.pdb

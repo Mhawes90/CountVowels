@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountVowelsModularizedGUI", "CountVowelsModularizedGUI\CountVowelsModularizedGUI.csproj", "{BB102527-4FCF-4883-BFB0-3487985F3BCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB102527-4FCF-4883-BFB0-3487985F3BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB102527-4FCF-4883-BFB0-3487985F3BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB102527-4FCF-4883-BFB0-3487985F3BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB102527-4FCF-4883-BFB0-3487985F3BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63F1D14B-B05E-4A47-A8FD-3E3337F53D5A}
+	EndGlobalSection
+EndGlobal
